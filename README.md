@@ -119,7 +119,6 @@ Reading the Raw Dataset which originally existed as a CSV file into a Pandas Dat
 
 # solution
 
-# solution
  
 import pandas as pd
 
